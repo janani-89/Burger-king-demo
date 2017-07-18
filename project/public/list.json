@@ -1,0 +1,40 @@
+{
+ "menuItem": [
+  {
+   "name": "Featured Items"
+  },
+  {
+   "name": "Delivery deals"
+  },
+  {
+   "name": "Combos"
+  },
+  {
+   "name": "Burgers"
+  },
+  {
+   "name": "Hot Dogs"
+  },
+  {
+   "name": "Chicken and Fish"
+  },
+  {
+   "name": "Salads"
+  },
+  {
+   "name": "Counting Calories?"
+  },
+  {
+   "name": "Snacks and Sides"
+  },
+  {
+   "name": "KING JR."
+  },
+  {
+   "name": "Desserts"
+  },
+  {
+   "name": "DRINKS"
+  }
+ ]
+}

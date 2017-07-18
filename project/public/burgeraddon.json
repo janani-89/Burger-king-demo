@@ -1,0 +1,73 @@
+{
+  "addons": [
+        {
+          "src": "https://us.123rf.com/450wm/myviewpoint/myviewpoint1702/myviewpoint170200008/71131216-close-up-of-juicy-delicious-breaded-chicken-cutlets-on-white-plate-on-old-rustic-wooden-table-view-f.jpg?ver=6",
+          "name": "Crispy Chicken patty",
+          "extras":[
+             { 
+              "id" : "1",
+              "option":"As is"
+            },
+            {
+              "id" : "2",
+              "option":"extra $10.00"
+            },
+            {
+              "id" : "3",
+              "option": "Remove"
+            }
+          ]
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0880/9148/products/english_bacon_large.png?v=1445877513",
+          "name": "BACON",
+          "extras":[
+             {
+              "option":"As is"
+            },
+            {
+              "option":"extra $5.00"
+            },
+            {
+              "option": "Remove"
+            }
+          ]
+        },
+        {
+          "src": "http://images.wisegeek.com/slices-of-american-cheese.jpg",
+          "name": "American Cheese",
+          "extras":[
+             { 
+              "id" : "1",
+              "option":"As is"
+            },
+            {
+              "id" : "2",
+              "option":"extra $1.00"
+            },
+            {
+              "id" : "3",
+              "option": "Remove"
+            }
+          ]
+        },
+        {
+          "src": "https://thumb9.shutterstock.com/display_pic_with_logo/62488/97669862/stock-photo-romain-lettuce-isolated-on-a-white-background-97669862.jpg",
+          "name": "Lettuce",
+          "extras":[
+             { 
+              "id" : "1",
+              "option":"As is"
+            },
+            {
+              "id" : "2",
+              "option":"extra $2.00"
+            },
+            {
+              "id" : "3",
+              "option": "Remove"
+            }
+          ]
+        }
+      ]
+    }

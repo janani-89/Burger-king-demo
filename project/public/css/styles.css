@@ -1,0 +1,84 @@
+
+body{
+	margin-left:150px;
+	margin-right:150px;
+}
+
+#logo{
+	width:100px;
+	height:85px;
+	float:left;
+
+}
+#bag{
+	text-align: right; 
+	word-spacing: 10px; 
+	float:right;
+	font-weight: bold;
+}
+#login{
+	height:85px;
+	width:50px;
+
+}
+#first{
+		font-weight: bold;
+	
+}
+.list{
+	list-style-type: none;
+	border-right: : 1px solid #555;
+
+}
+#headerdiv{
+		border: 1px solid black;
+		border-top: 	none;
+		margin-top: -20px;
+		background-color: 	black;
+}
+#fb{
+	float: right;
+	width:220px;
+	background-color: blue; 
+	color:white;
+	font-weight: bold;
+	margin-right: 20px;
+	margin-top:-30px;
+}
+#registerr{
+	float:right;
+	background-color: orange;
+	color:white;
+	font-weight: bold;
+}
+#sign{
+	float:right;
+	font-weight: bold;
+	width:130px;
+}
+#burger{
+		margin-top: 0px;
+		padding:0px;
+		background-color: 	white;
+        	height:100px;
+	}
+#order{
+	
+	background-color: orange;
+	color:white;
+	font-weight: bold;
+    margin-top:270px;
+    margin-left: 200px;
+}
+.list{
+    width:200px; 
+    height:30px; 
+    background-color:grey;
+    padding:5px 5px 10px ;
+   
+}
+#store{
+	float:right;
+	font-weight: bold;
+	margin-right:40px;
+}

@@ -1,0 +1,31 @@
+<div class="container-fluid" style="background-color:orange">
+    <p style="text-align: center; font-weight: bold;"> MENU </p>
+
+</div>
+
+<div class="container-fluid text-center" style="margin-left:-15px;">    
+  <div class="row content" >
+    <div class="col-sm-2 sidenav">
+      <ul class="list"  ng-repeat="menuItem in menuItems">
+          <li class="menulist"><a href=" #" style="color:black;text-transform: uppercase; font-weight:bold;" >{{menuItem.name}}</a></li>
+        
+      </ul>
+    </div>
+    
+    <div class="col-sm-8 text-left" style="margin-left:100px;"> 
+      <div class="col-sm-6" ng-repeat="burger in burgers">
+          <a href="#"><img ng-src="{{burger.src}}" style="width:150px; height:150px;" /></a>
+          <br/>
+          <span style="font-size:10px; padding-top:10px;">{{burger.name}}</span> 
+          <BR/> <br/>
+
+          <button type="submit" class="btn btn-default" id="store" style= " background-color: orange ; color:white " ><a href="#!addon"> <span >ADD TO BAG + </span> </a></button>
+          <br/>  <br/> 
+          <hr/>
+      </div>
+    </div>
+  </div>
+</div>
+  
+
+ 

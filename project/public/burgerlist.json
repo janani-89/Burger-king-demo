@@ -1,0 +1,20 @@
+{
+"burgers": [
+    {
+      "name": "Bacon and Cheese Crispy Chicken Sandwich",
+      "src" : "http://s.eatthis-cdn.com/media/images/ext/472604243/burger-king-ranked-BaconChddrTendercrisp.jpg"
+    },
+    {
+      "name": "BACON KING",
+      "src":"http://www.chewboom.com/wp-content/uploads/2016/10/Burger-King-Offers-New-Bacon-King-Sandwich-678x381.jpg"
+    },
+    {
+      "name": "Classic Grilled Dog",
+      "src": "http://www.chicagonow.com/chicago-eats/files/2016/02/burgerkinghotdog.jpg"
+    },
+    {
+      "name": "Chilli Cheese Grilled Dog ",
+      "src":"http://fastfoodgeek.com/wp-content/uploads/2016/02/ChiliDog_Detail_v2-min.jpg"
+    }
+  ]
+}
