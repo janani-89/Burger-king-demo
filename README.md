@@ -1,6 +1,6 @@
 # Burger-king-demo-page
 
-Tried to re create Burger king page using MEAN stack.
+Recreated Burger king page using MEAN stack.
 
 Prerequisites:
 
@@ -11,8 +11,8 @@ Git - Download & Install Git. OSX and Linux machines typically have this already
 To make the web pages responsive irrespective of the type of device or screen size, I have used bootstrap framework.
 
 Outline:
-1. Tried to recreate burger king website which has a home page, menu, sign in and register page.
-2. Tried to create the front end using Angular Framework.
+1. Recreated burger king website which has a home page, menu, sign in and register page.
+2. Created the front end using Angular Framework.
 3. Install node and npm. Npm makes it easy to install all the dependencies
 4. Routing to different pages using Angular routers.
 
